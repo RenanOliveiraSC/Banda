@@ -1,6 +1,6 @@
 package br.com.banda.model;
 
-public class Canta {
+public class Canta extends Banda {
 
 	private int can_Codigo;
 	private int can_AnoGravacao;

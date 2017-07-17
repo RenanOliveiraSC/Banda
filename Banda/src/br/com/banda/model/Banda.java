@@ -2,7 +2,7 @@ package br.com.banda.model;
 
 import java.util.Date;
 
-public class Banda {
+public class Banda extends Musica {
 
 	private int ban_Codig;
 	private String ban_Nome;

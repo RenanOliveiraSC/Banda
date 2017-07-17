@@ -1,6 +1,6 @@
 package br.com.banda.model;
 
-public class Musica {
+public class Musica extends Estilo {
 
 	private int mus_Codigo;
 	private String mus_Nome;
